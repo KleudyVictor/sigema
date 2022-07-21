@@ -1,0 +1,1 @@
+{"version":3,"file":"css/637.7cc07b43.css","mappings":"AAEA;EACE;AADF,C","sources":["webpack://SIGEMA/./src/components/General/CarruselComponent.vue"],"sourcesContent":["\n\n.q-carousel\n  border-radius: 15px\n"],"names":[],"sourceRoot":""}

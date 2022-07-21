@@ -1,0 +1,1 @@
+{"version":3,"file":"css/app.5a0098d7.css","mappings":";AACA;EACE;AAAF,C","sources":["webpack://SIGEMA/./src/components/Splash/LoaderComponent.vue"],"sourcesContent":["\n.splash\n  bottom: 8rem\n\n"],"names":[],"sourceRoot":""}
